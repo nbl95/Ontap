@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9884e55f-e7e6-45e5-b521-c81a2e5889b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/thuchanhsukienchuot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tinhngaytrongthang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gamepuzzele.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maytinhdongian.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,12 +16,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tinhngaytrongthang.html">
+        <entry file="file://$PROJECT_DIR$/gamepuzzele.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="n#style#0;n#input#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,6 +49,8 @@
         <option value="$PROJECT_DIR$/toantu3ngoi.html" />
         <option value="$PROJECT_DIR$/thuchanhsukienchuot.html" />
         <option value="$PROJECT_DIR$/tinhngaytrongthang.html" />
+        <option value="$PROJECT_DIR$/maytinhdongian.html" />
+        <option value="$PROJECT_DIR$/gamepuzzele.html" />
       </list>
     </option>
   </component>
@@ -122,12 +127,13 @@
       <updated>1575962283973</updated>
       <workItem from="1575962285185" duration="5083000" />
       <workItem from="1576026893958" duration="4467000" />
-      <workItem from="1576035010423" duration="1556000" />
+      <workItem from="1576035010423" duration="2753000" />
+      <workItem from="1576049680569" duration="4292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11106000" />
+    <option name="totallyTimeSpent" value="16595000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -148,7 +154,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39948454" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39948454" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298969" />
@@ -195,8 +201,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tinhngaytrongthang.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-684">
           <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maytinhdongian.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamepuzzele.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="n#style#0;n#input#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
