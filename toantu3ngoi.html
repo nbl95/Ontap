@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    // let a = prompt("nhap a");
+    // let b = prompt("nhap b");
+    // result = (a+b <4 )? "below": "over";
+    // alert(result);
+
+    //
+    // let a = prompt("enter");
+    // if (a == "Employee"){
+    //     alert("Hello");
+    // }else if (a == "Director"){
+    //     alert("Greeting");
+    // }else if (a == null){
+    //     alert("No login");
+    // } else {
+    //     alert("  ");
+    // }
+    //
+    // let message;
+    // if(login == 'Employee'){
+    //     message = 'Hello';
+    // }else if (login == 'Director'){
+    //     message = 'Greeting';
+    // }else if (login == null){
+    //     message = 'No login';
+    // } else {
+    //     message = '  ';
+    // }
+
+    let message = (login == 'Employee')?
+        'Hello':
+        (login == 'Director')?
+         'Greeting':
+            (login == '')?
+            'No login':
+                '';
+    alert(message);
+</script>
+</body>
+</html>
