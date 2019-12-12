@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<canvas id="myCanvas" width="300" height="150" style="border: 1px black"></canvas>
+<script>
+    function Rectengle(width,height,posX,posY) {
+        this.posX = posX;
+        this.posY = posY;
+        this.height = height;  //// thuoc tinh
+        this.width = width;
+
+        this.getArea = function () {
+            return this.height * this.width;
+
+        };
+        this.getPerimeter = function () {
+            return (this.height + this.width)*2;
+
+        };
+        this.getCanvas = function () {
+            var c = document.getElementById("myCanvas");
+            var ctx = c.getContext("2d");
+            ctx.beginPath();
+            ctx.rect(this.posX,this.posY, this.width, this.height);
+            ctx.stroke();
+
+        };
+    };
+
+    let rectengle = new Rectengle(100,50,0,0);
+    alert(""+rectengle.getArea() + "dientich"+ rectengle.getPerimeter());
+rectengle.getCanvas();
+</script>
+</body>
+</html>
